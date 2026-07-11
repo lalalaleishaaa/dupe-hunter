@@ -1,4 +1,4 @@
-\# 🔍 Dupe Hunter
+\# Dupe Hunter
 
 
 
@@ -12,11 +12,11 @@
 
 I ran this on my own computer and:
 
-\-  Found \*\*16,541 duplicate files\*\*
+\-  Found 16,541 duplicate files
 
-\-  Saved \*\*3.1 GB\*\* of disk space
+\-  Saved 3.1 GB of disk space
 
-\-  Scanned \*\*50,000+ files\*\* in minutes
+\-  Scanned 50,000+ files in minutes
 
 
 
@@ -24,15 +24,15 @@ I ran this on my own computer and:
 
 
 
-\- \*\*Blazing fast\*\* - Groups by file size first
+\- \Blazing fast - Groups by file size first
 
-\- \*\*Progress bars\*\* - See what's happening
+\- Progress bars - See what's happening
 
-\- \*\*Beautiful output\*\* - Color-coded tables
+\- clean output - Color-coded tables
 
-\- \*\*Space calculator\*\* - Shows how much you'll save
+\- Space calculator - Shows how much you'll save
 
-\- \*\*Safe delete\*\* - Keeps first file, deletes rest
+\- Safe delete - Keeps first file, deletes rest
 
 
 
