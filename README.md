@@ -24,7 +24,7 @@ I ran this on my own computer and:
 
 
 
-\- \Blazing fast - Groups by file size first
+\- Blazing fast - Groups by file size first
 
 \- Progress bars - See what's happening
 
