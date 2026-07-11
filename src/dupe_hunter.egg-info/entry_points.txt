@@ -1,0 +1,2 @@
+[console_scripts]
+dupe-hunter = dupe_hunter:app

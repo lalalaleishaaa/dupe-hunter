@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/__init__.py
+src/dupe_hunter.py
+src/dupe_hunter.egg-info/PKG-INFO
+src/dupe_hunter.egg-info/SOURCES.txt
+src/dupe_hunter.egg-info/dependency_links.txt
+src/dupe_hunter.egg-info/entry_points.txt
+src/dupe_hunter.egg-info/requires.txt
+src/dupe_hunter.egg-info/top_level.txt
